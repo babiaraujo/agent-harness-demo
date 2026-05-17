@@ -107,7 +107,6 @@ cinco padrões concretos que vivem nesse repo, prontos pra copiar pro seu caso:
 - **LangChain** — discussões sobre arquitetura de agentes multi-step e patterns de orquestração
 - **OpenAI** — guia de práticas pra agentes em produção, foco em validação e recuperação de erro
 
-o post no LinkedIn que motivou esse repo: [link aqui depois de publicar].
 
 ## licença
 
